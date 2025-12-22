@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ウィークエンドシトロン",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-22T10:39:37.113207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウィークエンドシトロン",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_ウィークエンドシトロン_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウィークエンドシトロン",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_ウィークエンドシトロン_=LOVE.txt"
+    }
+  ]
+}
